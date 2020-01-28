@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cbcd93d3-4409-49f4-9cfe-a443b2e93dab" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array and Conditional Statements Homework.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Array and Conditional Statements Homework/ArmstrongNumber.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Array and Conditional Statements Homework/FibonacciSeries.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Array and Conditional Statements Homework/META-INF/Array and Conditional Statements Homework.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Array and Conditional Statements Homework/MultiplicationTableUsingDoWhile.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Array and Conditional Statements Homework/ReverseNumber.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Array and Conditional Statements Homework/SortingNumericArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Array and Conditional Statements Homework/SortingStringArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Array and Conditional Statements Homework/StringCharCount.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Array and Conditional Statements Homework/SumOfOddEvenDigits.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Array and Conditional Statements Homework/SumValueOfArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Array and Conditional Statements Homework/TestSpecificValue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Array and Conditional Statements Homework/TotalNoOfwordAndSpace.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArmstrongNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FibonacciSeries.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MultiplicationTableUsingDoWhile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReverseNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SortingNumericArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SortingStringArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StringCharCount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SumOfOddEvenDigits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SumValueOfArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TestSpecificValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TotalNoOfwordAndSpace.java" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1WyFzRARqZ2ZjsZEVll2KpS7apQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.TotalNoOfwordAndSpace">
+    <configuration name="ArmstrongNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArmstrongNumber" />
+      <module name="Array and Conditional Statements Homework" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FibonacciSeries" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FibonacciSeries" />
+      <module name="Array and Conditional Statements Homework" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MultiplicationTableUsingDoWhile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MultiplicationTableUsingDoWhile" />
+      <module name="Array and Conditional Statements Homework" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringCharCount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringCharCount" />
+      <module name="Array and Conditional Statements Homework" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TotalNoOfwordAndSpace" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TotalNoOfwordAndSpace" />
+      <module name="Array and Conditional Statements Homework" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TotalNoOfwordAndSpace" />
+        <item itemvalue="Application.StringCharCount" />
+        <item itemvalue="Application.FibonacciSeries" />
+        <item itemvalue="Application.MultiplicationTableUsingDoWhile" />
+        <item itemvalue="Application.ArmstrongNumber" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cbcd93d3-4409-49f4-9cfe-a443b2e93dab" name="Default Changelist" comment="" />
+      <created>1580114189497</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580114189497</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
